@@ -79,7 +79,12 @@ h1 span { color: #f36b93; }
 .section-eyebrow { margin-bottom: 4px; color: #b19aad; font-size: 9px; letter-spacing: 1.15px; }
 h2 { margin: 0; color: #3c2b4d; font-size: 22px; font-weight: 600; letter-spacing: -.3px; }
 .type-badge { padding: 7px 10px; border-radius: 99px; background: #fff2f5; color: #e76d91; font-size: 10px; font-weight: 700; }
+.chart-switcher { display: flex; justify-content: flex-end; gap: 3px; margin-top: 12px; }
+.chart-switch { padding: 6px 10px; border: 1px solid #eee6f0; border-radius: 8px; background: #fff; color: #887a91; font-size: 10px; font-weight: 700; transition: background .15s, color .15s, border-color .15s; }
+.chart-switch:hover { border-color: #d7c9f4; color: #6349ab; }
+.chart-switch.active { border-color: #7654db; background: #7654db; color: #fff; }
 .chart-wrap { position: relative; display: flex; height: 286px; align-items: center; justify-content: center; margin: 12px 0 0; }
+.bar-chart-wrap { margin-top: 5px; }
 .chart-wrap > .recharts-responsive-container { z-index: 1; }
 .chart-center { position: absolute; top: 50%; left: 50%; display: flex; align-items: center; flex-direction: column; transform: translate(-50%, -50%); pointer-events: none; }
 .chart-center strong { color: #473354; font-family: "Fredoka", sans-serif; font-size: 42px; font-weight: 600; line-height: 1; animation: number-pop .35s ease-out; }
@@ -99,6 +104,9 @@ h2 { margin: 0; color: #3c2b4d; font-size: 22px; font-weight: 600; letter-spacin
 .list-heading { margin-bottom: 14px; }
 .total-pill { padding: 7px 10px; border-radius: 99px; background: #f1edff; color: #7054cf; font-size: 12px; font-weight: 800; }
 .total-pill span { color: #9587c6; font-size: 9px; font-weight: 700; }
+.list-tools { display: flex; align-items: center; gap: 9px; }
+.sort-control { display: flex; align-items: center; gap: 5px; color: #a397a8; font-size: 8px; font-weight: 800; letter-spacing: .7px; }
+.sort-control select { max-width: 105px; padding: 7px 20px 7px 8px; border: 1px solid #eee6f0; border-radius: 9px; background: #fff; color: #675474; font-size: 10px; font-weight: 700; letter-spacing: 0; }
 .candy-list-region { min-height: 61px; }
 .candy-list { display: flex; max-height: 200px; flex-direction: column; gap: 7px; overflow-y: auto; margin: 0; padding: 0 3px 4px 0; list-style: none; scrollbar-color: #dfd5e8 transparent; scrollbar-width: thin; }
 .candy-row { display: flex; min-height: 48px; align-items: center; gap: 10px; padding: 7px 9px; border: 1px solid #f4edf1; border-radius: 12px; background: #fffdfd; animation: row-appear .3s ease-out; transition: background .2s, transform .2s; }

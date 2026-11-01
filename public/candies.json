@@ -1,0 +1,156 @@
+[
+  {
+    "id": 3,
+    "name": "Nerds",
+    "count": 2,
+    "createdAt": "2026-11-01 19:16:01",
+    "updatedAt": "2026-11-01 19:16:01"
+  },
+  {
+    "id": 4,
+    "name": "Gummies",
+    "count": 39,
+    "createdAt": "2026-11-01 19:17:40",
+    "updatedAt": "2026-11-01 19:17:40"
+  },
+  {
+    "id": 5,
+    "name": "Pops 🍭",
+    "count": 32,
+    "createdAt": "2026-11-01 19:19:43",
+    "updatedAt": "2026-11-01 19:19:43"
+  },
+  {
+    "id": 6,
+    "name": "Skittles 🌈",
+    "count": 8,
+    "createdAt": "2026-11-01 19:20:12",
+    "updatedAt": "2026-11-01 19:20:12"
+  },
+  {
+    "id": 7,
+    "name": "Twizzlers 🌪️",
+    "count": 13,
+    "createdAt": "2026-11-01 19:21:31",
+    "updatedAt": "2026-11-01 19:21:31"
+  },
+  {
+    "id": 8,
+    "name": "Butterfingers 🖐️",
+    "count": 4,
+    "createdAt": "2026-11-01 19:22:16",
+    "updatedAt": "2026-11-01 19:22:16"
+  },
+  {
+    "id": 9,
+    "name": "Reese's 🟠🟤",
+    "count": 13,
+    "createdAt": "2026-11-01 19:23:58",
+    "updatedAt": "2026-11-01 19:23:58"
+  },
+  {
+    "id": 10,
+    "name": "3 Musketeers 🤺",
+    "count": 6,
+    "createdAt": "2026-11-01 19:25:04",
+    "updatedAt": "2026-11-01 19:25:04"
+  },
+  {
+    "id": 11,
+    "name": "M&Ms",
+    "count": 19,
+    "createdAt": "2026-11-01 19:26:13",
+    "updatedAt": "2026-11-01 19:26:13"
+  },
+  {
+    "id": 12,
+    "name": "Almond Joy",
+    "count": 2,
+    "createdAt": "2026-11-01 19:26:58",
+    "updatedAt": "2026-11-01 19:26:58"
+  },
+  {
+    "id": 13,
+    "name": "Hershey's Milk Chocolate 🥛",
+    "count": 3,
+    "createdAt": "2026-11-01 19:29:13",
+    "updatedAt": "2026-11-01 19:29:13"
+  },
+  {
+    "id": 14,
+    "name": "Starburst ⭐",
+    "count": 8,
+    "createdAt": "2026-11-01 19:30:27",
+    "updatedAt": "2026-11-01 19:30:27"
+  },
+  {
+    "id": 15,
+    "name": "Twix",
+    "count": 4,
+    "createdAt": "2026-11-01 19:31:37",
+    "updatedAt": "2026-11-01 19:31:37"
+  },
+  {
+    "id": 16,
+    "name": "Heath Bars",
+    "count": 2,
+    "createdAt": "2026-11-01 19:32:05",
+    "updatedAt": "2026-11-01 19:32:05"
+  },
+  {
+    "id": 17,
+    "name": "Mystery candeeez",
+    "count": 6,
+    "createdAt": "2026-11-01 19:34:00",
+    "updatedAt": "2026-11-01 19:34:00"
+  },
+  {
+    "id": 18,
+    "name": "KitKat",
+    "count": 6,
+    "createdAt": "2026-11-01 19:35:15",
+    "updatedAt": "2026-11-01 19:35:15"
+  },
+  {
+    "id": 19,
+    "name": "Milky Way 🌌",
+    "count": 5,
+    "createdAt": "2026-11-01 19:36:22",
+    "updatedAt": "2026-11-01 19:36:22"
+  },
+  {
+    "id": 20,
+    "name": "Whoppers",
+    "count": 3,
+    "createdAt": "2026-11-01 19:36:39",
+    "updatedAt": "2026-11-01 19:36:39"
+  },
+  {
+    "id": 21,
+    "name": "Sweet Tarts",
+    "count": 2,
+    "createdAt": "2026-11-01 19:37:13",
+    "updatedAt": "2026-11-01 19:37:13"
+  },
+  {
+    "id": 22,
+    "name": "Tootsie Roll",
+    "count": 3,
+    "createdAt": "2026-11-01 19:39:42",
+    "updatedAt": "2026-11-01 19:39:42"
+  },
+  {
+    "id": 23,
+    "name": "Airheads",
+    "count": 2,
+    "createdAt": "2026-11-01 19:40:06",
+    "updatedAt": "2026-11-01 19:40:06"
+  },
+  {
+    "id": 24,
+    "name": "Snickers",
+    "count": 7,
+    "createdAt": "2026-11-01 19:40:57",
+    "updatedAt": "2026-11-01 19:40:57"
+  }
+]

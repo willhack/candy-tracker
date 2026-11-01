@@ -28,7 +28,7 @@ app.use(express.json({ limit: "10kb" }));
 
 app.get("/api/candies", (_request, response) => {
   const candies = database
-    .prepare("SELECT id, name, count, createdAt, updatedAt FROM candies ORDER BY name COLLATE NOCASE")
+    .prepare("SELECT id, name, count, createdAt, updatedAt FROM candies ORDER BY createdAt, id")
     .all() as Candy[];
 
   response.json(candies);
